@@ -4,7 +4,7 @@
 
 Wyatt Geckle; Writing all VLC & video format related code, a lot of yt-dlp stuff, along with a lot of debugging (https://github.com/WGeckle80)
 
-Me; For helping debug, writing readme.md and readmeinstructions.txt, and realizing that i typed 'true' instead of 'True' 80 times in a row in the main file (https://github.com/blueytbh)
+Me; For helping debug, writing readme.md and readmeinstructions.txt, and realizing that i typed 'true' instead of 'True' 80 times in a row in the main file (https://github.com/lovebugAOL)
 
 ChatGPT; For setting up a base script for this code with yt-dlp stuff
 
@@ -21,6 +21,7 @@ this python script utilizes the yt-dlp module (https://github.com/yt-dlp/yt-dlp)
 this python script requires the holy media player probably made by jesus himself (https://www.videolan.org/vlc/)
 
 and the goofy ass video and audio merger (https://github.com/BtbN/FFmpeg-Builds/releases)
+
 
 
 
